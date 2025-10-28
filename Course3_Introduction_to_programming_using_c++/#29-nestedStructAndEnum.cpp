@@ -76,7 +76,7 @@ int main() {
 
 
 /*
-📘 Tutorial: Nested Structures and Enums in C++
+Tutorial: Nested Structures and Enums in C++
 
 In this example, we combine **structures** and **enums** to represent a person with detailed information.
 
